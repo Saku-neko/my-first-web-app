@@ -1,0 +1,25 @@
+body{
+    background-image: url(bg_love.png);
+    background-size: cover;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    margin-bottom: auto;
+}
+
+h6{
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: auto;
+    background: pink;
+    border-radius: 40px;
+}
+
+p,ul{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #444;
+}
